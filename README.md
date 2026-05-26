@@ -38,7 +38,7 @@ El proyecto usa React como framework frontend, Bootstrap para el diseño visual 
 1. Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/AlanBravo253/Eval_U3A_AlanBravo
 ```
 
 2. Entrar a la carpeta:
