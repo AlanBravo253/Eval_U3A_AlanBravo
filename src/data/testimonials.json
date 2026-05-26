@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Camila R.",
+    "role": "Postulante",
+    "text": "La plataforma me ayudó a ordenar mi información y mostrar mis habilidades de forma más clara."
+  },
+  {
+    "id": 2,
+    "name": "Empresa Local",
+    "role": "Empleador",
+    "text": "Nos permitió encontrar perfiles adecuados de manera más rápida y transparente."
+  },
+  {
+    "id": 3,
+    "name": "Jorge M.",
+    "role": "Postulante",
+    "text": "El proceso fue simple, entendible y accesible desde mi celular."
+  }
+]

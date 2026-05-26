@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "¿Quiénes pueden usar Proviemplea?",
+    "answer": "Personas de Providencia que buscan empleo y empresas interesadas en encontrar talento local."
+  },
+  {
+    "id": 2,
+    "question": "¿La plataforma reemplaza el proceso presencial?",
+    "answer": "No necesariamente. Su objetivo es agilizar la intermediación laboral y reducir el uso de planillas y correos."
+  },
+  {
+    "id": 3,
+    "question": "¿Cómo se protegen los datos personales?",
+    "answer": "El formulario valida datos, evita campos vacíos y considera medidas básicas de seguridad y confidencialidad."
+  }
+]
